@@ -1,0 +1,5 @@
+Flask
+python-pptx
+flask-mail
+python-dotenv
+pytest
